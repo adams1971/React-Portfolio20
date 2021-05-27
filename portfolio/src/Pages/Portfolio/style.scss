@@ -1,0 +1,16 @@
+@import '~bootstrap/scss/bootstrap';
+@import 'bootstrap/dist/css/bootstrap.css';
+
+#portfolio {
+    background-color:	#D2B48C;
+    width: 100vw;
+    background-color: cover;
+}
+
+.cards{
+    margin-left: 'auto';
+    display: 'grid';
+    grid-template-columns: 'repeat(auto, minmax(280px, 1fr))';
+    grid-gap: 25px;
+
+}

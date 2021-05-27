@@ -1,20 +1,32 @@
-// .nav {
-//     font-size: 30px;    
-// }
 
 //top
 .Navbar {
-    font-size: 30px;
-    list-style-type: none;
-    background: lemonchiffon;
-}
-
-//middle
-.nav-content {
     font-size: 20px;
     list-style-type: none;
-    background: lemonchiffon;
+    background: #F5DEB3;
 }
+
+.align{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.ulNav {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.marginLi {
+    margin: 10px;
+    font-size: 10px;
+ 
+}
+
 
 // .nav {  
 //     background: lemonchiffon;

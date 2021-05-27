@@ -1,26 +1,34 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
 import './style.scss'
+// import { Container } from "react-bootstrap";
 
 function Navbar() {
     return (
-        <div className='Navbar'>
-            <nav className='nav'>
-                Adam Stevenson
-                
-                <ul className='nav-content'>
-                    <li className='nav-content'>
-                        <NavLink exact to='/' activeClassName="active">Home</NavLink>
-                    </li>
-                    <li className='nav-content'>
-                        <NavLink exact to='/about' activeClassName="active">About Me</NavLink>
-                    </li>
-                    <li className='nav-content'>
-                        <NavLink exact to='/portfolio' activeClassName="active">Portfolio</NavLink>
-                    </li>
-                </ul>
-            </nav>
-        </div>
+        // <Container>
+            <div className='Navbar'>
+                <nav className='align'>
+                    <div>
+                        Adam Stevenson
+                    </div>
+                    <div>
+                        <ul className="ulNav">
+                            <li >
+                                <NavLink exact to='/' activeClassName="active" className='marginLi'>Home</NavLink>
+                            </li>
+                            <li className='marginLi'>
+                                <NavLink exact to='/about' activeClassName="active"
+                                className='marginLi'>About Me</NavLink>
+                            </li>
+                            <li className='marginLi'>
+                                <NavLink exact to='/portfolio' activeClassName="active"
+                                className='marginLi'>Portfolio</NavLink>
+                            </li>
+                        </ul>
+                    </div> 
+                </nav>
+            </div>
+        // </Container>
     );
   }
   
