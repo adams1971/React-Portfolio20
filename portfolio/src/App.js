@@ -5,6 +5,7 @@ import Navbar from "./components/Nav/Navbar";
 import PortfolioPage from "./Pages/Portfolio";
 import './style.scss' 
 import Home from './Pages/Home'
+import About from './Pages/About'
 
 console.log('x: ', PortfolioPage)
 
@@ -15,7 +16,7 @@ function App() {
       <Navbar/>
         <Route exact path="/" component={AboutMe}/>
         <Route path="/Portfolio" component={PortfolioPage}/>
-        <Route path="/AboutMe" component={AboutMe}/>
+        <Route path="/About" component={About}/>
         <Route path="/Home" component={Home}/>
         <Footer/>
       </Router>

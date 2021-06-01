@@ -1,10 +1,6 @@
-//add Nav aboutMe & footer components in side the return
-
 import portfolioData from "../../portfolioData";
 import { Card, CardDeck, Row, Col } from "react-bootstrap";
 import "./style.scss";
-
-// import ProjectCard from '../components/ProjectCard'
 
 function PortfolioPage() {
   const portfolioDataBatches = () => {
@@ -17,7 +13,7 @@ function PortfolioPage() {
   };
   return (
     // <Container id="portfolio">
-      <CardDeck id="portfolio">
+      <CardDeck id="portfolio" style={{height: 'auto', backgroundPosition: 'center',backgroundRepeat: 'no-reopeat', backgroundSize: 'cover', backgroundImage: `url(${process.env.PUBLIC_URL}/oceanBG3.jpg`}}>
         {portfolioDataBatches().map((batch, index) => {
           return (
             <Row>
@@ -25,6 +21,8 @@ function PortfolioPage() {
                 console.log("p: ", project, idx);
                 return (
                   <Col>
+                  <br />
+                  <br />
                     <Card key={idx}>
                       <Card.Img
                         variant="top"
@@ -34,7 +32,7 @@ function PortfolioPage() {
                       <Card.Body>
                         <Card.Text>{project.project}</Card.Text>
                         <Card.Title>{project.title}</Card.Title>
-                        {/* <Card.Text><a href={project.repo}>{project}</a></Card.Text> */}
+                        
                         <Card.Text>{project.text}</Card.Text>
                         <Card.Footer>
                           <small className="text-muted">
@@ -56,6 +54,8 @@ function PortfolioPage() {
             </Row>
           );
         })}
+        <br />
+        <br />
       </CardDeck>
     // </Container>
   );

@@ -13,16 +13,17 @@ function Navbar() {
                     </div>
                     <div>
                         <ul className="ulNav">
-                            <li >
-                                <NavLink exact to='/' activeClassName="active" className='marginLi'>Home</NavLink>
-                            </li>
                             <li className='marginLi'>
-                                <NavLink exact to='/about' activeClassName="active"
-                                className='marginLi'>About Me</NavLink>
+                                <NavLink exact to='/' activeClassName="active" 
+                                className='marginLi'>Home</NavLink>
                             </li>
                             <li className='marginLi'>
                                 <NavLink exact to='/portfolio' activeClassName="active"
                                 className='marginLi'>Portfolio</NavLink>
+                            </li>
+                            <li className='marginLi'>
+                                <NavLink exact to='/about' activeClassName="active"
+                                className='marginLi'>About Me</NavLink>
                             </li>
                         </ul>
                     </div> 
@@ -31,5 +32,6 @@ function Navbar() {
         // </Container>
     );
   }
+
   
   export default Navbar;

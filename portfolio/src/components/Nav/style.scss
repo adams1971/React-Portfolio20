@@ -1,16 +1,19 @@
 
 //top
 .Navbar {
+    color: whitesmoke;
     font-size: 20px;
     list-style-type: none;
-    background: #F5DEB3;
+    background: #154360;
+    opacity: 60%;
 }
 
 .align{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
+    color: whitesmoke;
 }
 
 .ulNav {
@@ -23,7 +26,8 @@
 
 .marginLi {
     margin: 10px;
-    font-size: 10px;
+    font-size: 15px;
+    color: whitesmoke;
  
 }
 
