@@ -12,14 +12,14 @@ console.log('x: ', PortfolioPage)
 function App() {
   return (
     <div>
-      <Router>
       <Navbar/>
+      <Router>
         <Route exact path="/" component={AboutMe}/>
         <Route path="/Portfolio" component={PortfolioPage}/>
         <Route path="/About" component={About}/>
         <Route path="/Home" component={Home}/>
-        <Footer/>
       </Router>
+      <Footer/>
       
     </div>
   );
