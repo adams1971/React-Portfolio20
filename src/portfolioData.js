@@ -5,6 +5,7 @@ import watch from './assets/Images/watchnextImg.png';
 import Emp from './assets/Images/ScreenSEMPDir.png';
 import Budget from './assets/Images/travler-budget-ss2.png';
 import CmdLine from './assets/Images/EmpTrc_MySQL12pic1.png';
+import Weather from './assets/Images/weatherApp.png';
 
 export default [
     {
@@ -52,12 +53,22 @@ export default [
         
     },
 
+    
     {
         project: '',
         title: 'Employee Tracker', 
         image: CmdLine,
         repo: 'https://github.com/adams1971/Employee-Tracker',
         text: 'A command line application that will add view and update a database using MySQL, Node & Inquirer.'
+        
+    },
+
+    {
+        project: '',
+        title: 'Weather Dashboard', 
+        image: Weather,
+        repo: 'https://github.com/adams1971/Weather-Dashboard',
+        text: 'A weather app using an API that will display users searched cities current weather (temp, humidity, wind speed and uv index).'
         
     },
 ]
