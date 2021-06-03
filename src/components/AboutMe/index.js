@@ -17,7 +17,7 @@ function HomePg() {
             <Row>
                 <Col size='sm-9'>
                     <Jumbotron style={{backgroundColor: '#F0FFFF'}}>
-                        <h3 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}> 
+                        <h3 style={{ color: '#154360', opacity: '70%', fontSize: '25px'}}> 
                         Welcome to my Landing Page, I hope you like what you see!
                         </h3>
                         
