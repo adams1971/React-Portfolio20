@@ -8,9 +8,9 @@
 ![PortfolioScreenShot](src/assets/Images/portfolioHomePgSS.png)
 #
 ## USAGE
-* Go To insert io----
+* Go To https://adams1971.github.io/React-Portfolio20/
 * From then Navbar, select Portfolio or About Me.
-* In Portfolio you will see recent project in order of teams (first 3) and solo projects (remaining).
+* In Portfolio you will see recent project in order of teams (first 2) and solo projects (remaining 4) with my final team project under construction.
 * Return to Home where you will find links to my Resume, LinkedIn, Instagram and Github pages.  
 #
 ## UNDER CONSTRUCTION

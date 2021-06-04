@@ -44,6 +44,13 @@ function PortfolioPage() {
                             >
                               {"project.repo"}
                             </a>
+                            <br />
+                            <a href={`${project.deployed}`}
+                                target="_blank"
+                                rel="noreferre"
+                                >
+                                  {"project.deployed"}
+                            </a>
                           </small>
                         </Card.Footer>
                       </Card.Body>
