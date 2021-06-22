@@ -28,11 +28,11 @@ function HomePg() {
                         <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>I enjoy being a Husband, Dad, Executive Chef and Outdoorsmen</h4>
                         <br />
                         
-                        <a style={{ margin: '20px'}} href="https://www.dropbox.com/s/325g9i1ho37feed/Resume%20Adam%20Stevenson%20Web%20Dev.docx?dl=0" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'>Resume</a>
+                        <a style={{ margin: '20px'}} href="https://docs.google.com/document/d/12raioGRVSggiFww3gzKUeVBkyKileUrcp5yK5hqcDVk/edit?usp=sharing" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'>Resume</a>
 
                         <a style={{ margin: '20px'}} href="https://www.linkedin.com/in/adam-stevenson-sea/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i className="fab fa-linkedin"></i> LinkedIn</a>
 
-                        <a style={{ margin: '20px'}} href="https://www.instagram.com/adamsthecook/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
+                        <a style={{ margin: '20px'}} href="https://www.instagram.com/akacodecook/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
                             className="fab fa-instagram">Instagram</i></a>
                         
                         <a style={{ margin: '20px'}} href="https://github.com/adams1971" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
