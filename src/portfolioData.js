@@ -6,6 +6,8 @@ import Emp from './assets/Images/ScreenSEMPDir.png';
 import Budget from './assets/Images/travler-budget-ss2.png';
 import CmdLine from './assets/Images/EmpTrc_MySQL12pic1.png';
 import Weather from './assets/Images/weatherApp.png';
+import cow from './assets/Images/weatherApp.png';
+import beeHive from './assets/Images/weatherApp.png';
 
 export default [
     {
@@ -81,21 +83,21 @@ export default [
 
     {
         project: '',
-        title: 'Weather Dashboard', 
-        image: Weather,
-        repo: 'https://github.com/adams1971/Weather-Dashboard',
-        deployed: 'https://adams1971.github.io/Weather-Dashboard/',
-        text: 'A weather app using an API that will display users searched cities current weather (temp, humidity, wind speed and uv index).'
+        title: 'Cost Cow', 
+        image: cow,
+        repo: 'UNDER CONSTRUCTION',
+        deployed: 'UNDER CONSTRUCTION',
+        text: 'Future Solo Project: Cost Cow- chefs recipe, menu & inventory management system to allow logged in users to control recipe and menu cost through an inventory database.'
         
     },
 
     {
         project: '',
-        title: 'Weather Dashboard', 
-        image: Weather,
-        repo: 'https://github.com/adams1971/Weather-Dashboard',
-        deployed: 'https://adams1971.github.io/Weather-Dashboard/',
-        text: 'A weather app using an API that will display users searched cities current weather (temp, humidity, wind speed and uv index).'
+        title: 'BeeHAVEN', 
+        image: beeHive,
+        repo: 'UNDER CONSTRUCTION',
+        deployed: 'UNDER CONSTRUCTION',
+        text: 'Future Solo Project: BeeHAVEN- is an app that bee keepers use to log seasonal production and use as a resource guide for improving bee keeping and abundance.'
         
     },
 
