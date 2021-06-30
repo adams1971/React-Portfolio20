@@ -83,20 +83,20 @@ export default [
 
     {
         project: '',
-        title: 'Cost Cow', 
+        title: 'Cost Cow UNDER CONSTRUCTION', 
         image: cow,
-        repo: 'UNDER CONSTRUCTION',
-        deployed: 'UNDER CONSTRUCTION',
+        repo: '',
+        deployed: '',
         text: 'Future Solo Project: Cost Cow- chefs recipe, menu & inventory management system to allow logged in users to control recipe and menu cost through an inventory database.'
         
     },
 
     {
         project: '',
-        title: 'BeeHAVEN', 
+        title: 'BeeHAVEN UNDER CONSTRUCTION', 
         image: beeHive,
-        repo: 'UNDER CONSTRUCTION',
-        deployed: 'UNDER CONSTRUCTION',
+        repo: '',
+        deployed: '',
         text: 'Future Solo Project: BeeHAVEN- is an app that bee keepers use to log seasonal production and use as a resource guide for improving bee keeping and abundance.'
         
     },
