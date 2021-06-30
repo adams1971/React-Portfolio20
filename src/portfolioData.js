@@ -6,8 +6,8 @@ import Emp from './assets/Images/ScreenSEMPDir.png';
 import Budget from './assets/Images/travler-budget-ss2.png';
 import CmdLine from './assets/Images/EmpTrc_MySQL12pic1.png';
 import Weather from './assets/Images/weatherApp.png';
-import cow from './assets/Images/weatherApp.png';
-import beeHive from './assets/Images/weatherApp.png';
+import cow from './assets/Images/cow.jpg';
+import beeHive from './assets/Images/beeHive.jpg';
 
 export default [
     {
