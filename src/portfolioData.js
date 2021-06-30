@@ -12,7 +12,8 @@ export default [
         project: '',
         title: 'Lets+Venture', 
         image: sky,
-        repo: 'https://github.com/adams1971?tab=repositories',
+        repo: 'https://github.com/adams1971/lets-add-venture',
+        deployed: 'https://lets-add-venture.netlify.app/',
         text: 'BCS Group Project 3. Currently under development.'
         
     },
@@ -87,4 +88,16 @@ export default [
         text: 'A weather app using an API that will display users searched cities current weather (temp, humidity, wind speed and uv index).'
         
     },
+
+    {
+        project: '',
+        title: 'Weather Dashboard', 
+        image: Weather,
+        repo: 'https://github.com/adams1971/Weather-Dashboard',
+        deployed: 'https://adams1971.github.io/Weather-Dashboard/',
+        text: 'A weather app using an API that will display users searched cities current weather (temp, humidity, wind speed and uv index).'
+        
+    },
+
+
 ]
