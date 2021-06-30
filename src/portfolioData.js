@@ -8,14 +8,14 @@ import CmdLine from './assets/Images/EmpTrc_MySQL12pic1.png';
 import Weather from './assets/Images/weatherApp.png';
 
 export default [
-    // {
-    //     project: '',
-    //     title: 'Lets+Venture', 
-    //     image: sky,
-    //     repo: 'https://github.com/adams1971?tab=repositories',
-    //     text: 'BCS Group Project 3. Currently under development.'
+    {
+        project: '',
+        title: 'Lets+Venture', 
+        image: sky,
+        repo: 'https://github.com/adams1971?tab=repositories',
+        text: 'BCS Group Project 3. Currently under development.'
         
-    // },
+    },
 
     {
         project: '',
