@@ -1,5 +1,5 @@
 //eslint-disable-next-line
-import sky from './assets/Images/testImgSky.png';
+import letsvenSS from './assets/Images/letsvenSS.png';
 import gramma from './assets/Images/grammagram.png';
 import watch from './assets/Images/watchnextImg.png';
 import Emp from './assets/Images/ScreenSEMPDir.png';
@@ -13,7 +13,7 @@ export default [
     {
         project: '',
         title: 'Lets+Venture', 
-        image: sky,
+        image: letsvenSS,
         repo: 'https://github.com/adams1971/lets-add-venture',
         deployed: 'https://lets-add-venture.netlify.app/',
         text: 'BCS Group Project 3. Currently under development.'

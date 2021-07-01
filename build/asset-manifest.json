@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio20/static/css/main.c3d84a89.chunk.css",
-    "main.js": "/React-Portfolio20/static/js/main.5e4a6ac0.chunk.js",
-    "main.js.map": "/React-Portfolio20/static/js/main.5e4a6ac0.chunk.js.map",
+    "main.js": "/React-Portfolio20/static/js/main.a603f18a.chunk.js",
+    "main.js.map": "/React-Portfolio20/static/js/main.a603f18a.chunk.js.map",
     "runtime-main.js": "/React-Portfolio20/static/js/runtime-main.c13a4e0d.js",
     "runtime-main.js.map": "/React-Portfolio20/static/js/runtime-main.c13a4e0d.js.map",
     "static/css/2.e655ea63.chunk.css": "/React-Portfolio20/static/css/2.e655ea63.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/cow.2fbc1d47.jpg": "/React-Portfolio20/static/media/cow.2fbc1d47.jpg",
     "static/media/grammagram.46b04e8b.png": "/React-Portfolio20/static/media/grammagram.46b04e8b.png",
     "static/media/headShot1.fd9f744f.JPG": "/React-Portfolio20/static/media/headShot1.fd9f744f.JPG",
-    "static/media/testImgSky.c27ed01b.png": "/React-Portfolio20/static/media/testImgSky.c27ed01b.png",
+    "static/media/letsvenSS.cce4b2e3.png": "/React-Portfolio20/static/media/letsvenSS.cce4b2e3.png",
     "static/media/travler-budget-ss2.a6df13f1.png": "/React-Portfolio20/static/media/travler-budget-ss2.a6df13f1.png",
     "static/media/watchnextImg.56f565ab.png": "/React-Portfolio20/static/media/watchnextImg.56f565ab.png",
     "static/media/weatherApp.42944b2d.png": "/React-Portfolio20/static/media/weatherApp.42944b2d.png"
@@ -28,6 +28,6 @@
     "static/css/2.e655ea63.chunk.css",
     "static/js/2.48b840ba.chunk.js",
     "static/css/main.c3d84a89.chunk.css",
-    "static/js/main.5e4a6ac0.chunk.js"
+    "static/js/main.a603f18a.chunk.js"
   ]
 }
