@@ -16,7 +16,7 @@ export default [
         image: letsvenSS,
         repo: 'https://github.com/adams1971/lets-add-venture',
         deployed: 'https://lets-add-venture.netlify.app/',
-        text: 'BCS Group Project 3. Currently under development.'
+        text: 'BCS Group Project 3. An Adventure application allowing people to keep track of there trips, skills and like-friends. As rock climber I am frequently looking for new challenges and new friends to climb with. This is an app to help users connect to like-minded, similarly-skilled climbers and find each other meet for climbs and socialize.'
         
     },
 
