@@ -24,7 +24,7 @@ function HomePg() {
                         {/* <img className="img-fluid float-left rounded-circle portrait" src="./headShot1.JPG" alt="my head shot" style={{ maxWidth: "25%", maxHeight: "auto" }}/> */}
                         <img className="img-fluid float-left rounded-circle portrait" src={myImage} alt="my head shot" style={{ maxWidth: "25%", maxHeight: "auto" }}/>
                         {/* <br /> */}
-                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>Hi, My name is Adam Stevenson, Front end web developer coming with a strong background in hospitality management, culinary artesian creativity and team building. Recently earning a full stack web development certificate from the University of Washington Full Stack Web Dev Bootcamp, a Trilogy Program. Creative and innovative thinker and problem solver ready to use newly acquired skills on front end web development.</h4>
+                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '18px'}}>Hi, My name is Adam Stevenson, Front end web developer coming with a strong background in hospitality management, culinary artesian creativity and team building. Recently earning a full stack web development certificate from the University of Washington Full Stack Web Dev Bootcamp, a Trilogy Program. Creative and innovative thinker and problem solver ready to use newly acquired skills on front end web development.</h4>
                         <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>I enjoy being a Husband, Dad, Executive Chef and Mountain to Sea Adventurer</h4>
                         <br />
                         
