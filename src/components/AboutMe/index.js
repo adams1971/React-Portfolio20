@@ -32,8 +32,8 @@ function HomePg() {
 
                         <a style={{ margin: '20px'}} href="https://www.linkedin.com/in/adam-stevenson-sea/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i className="fab fa-linkedin"></i> LinkedIn</a>
 
-                        <a style={{ margin: '20px'}} href="https://www.instagram.com/akacodecook/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
-                            className="fab fa-instagram">Instagram</i></a>
+                        {/* <a style={{ margin: '20px'}} href="https://www.instagram.com/akacodecook/" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
+                            className="fab fa-instagram">Instagram</i></a> */}
                         
                         <a style={{ margin: '20px'}} href="https://github.com/adams1971" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'><i
                             className="fab fa-github"></i></a>
