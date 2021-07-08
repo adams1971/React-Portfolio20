@@ -24,8 +24,8 @@ function HomePg() {
                         {/* <img className="img-fluid float-left rounded-circle portrait" src="./headShot1.JPG" alt="my head shot" style={{ maxWidth: "25%", maxHeight: "auto" }}/> */}
                         <img className="img-fluid float-left rounded-circle portrait" src={myImage} alt="my head shot" style={{ maxWidth: "25%", maxHeight: "auto" }}/>
                         {/* <br /> */}
-                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>Hi, My name is Adam Stevenson, I have completed a Full Stack Web Developer Bootcamp through the University of Washington. As I continue to develop my skills, I look forward to a full time career in Front End Web Development.</h4>
-                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>I enjoy being a Husband, Dad, Executive Chef and Outdoorsmen</h4>
+                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>Hi, My name is Adam Stevenson, Front end web developer coming with a strong background in hospitality management, culinary artesian creativity and team building. Recently earning a full stack web development certificate from the University of Washington Full Stack Web Dev Bootcamp, a Trilogy Program. Creative and innovative thinker and problem solver ready to use newly acquired skills on front end web development.</h4>
+                        <h4 style={{ color: '#154360', opacity: '70%', fontSize: '15px'}}>I enjoy being a Husband, Dad, Executive Chef and Mountain to Sea Adventurer</h4>
                         <br />
                         
                         <a style={{ margin: '20px'}} href="https://docs.google.com/document/d/12raioGRVSggiFww3gzKUeVBkyKileUrcp5yK5hqcDVk/edit?usp=sharing" class='btn btn-dark' target='_blank' rel="noreferrer" id='button'>Resume</a>
